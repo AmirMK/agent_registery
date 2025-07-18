@@ -97,16 +97,6 @@ Bot: 8 is not a prime number.
 - **`check_prime(nums: list[int])`**: Prime number checking algorithm
 
 
-## Extending the Sample
-
-You can extend this sample by:
-
-- Adding more mathematical operations (factorization, square roots, etc.)
-- Creating additional remote agent
-- Implementing more complex delegation logic
-- Adding persistent state management
-- Integrating with external APIs or databases
-
 ## Troubleshooting
 
 **Connection Issues:**
