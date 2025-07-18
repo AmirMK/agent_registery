@@ -6,11 +6,10 @@ This sample demonstrates how to build a custom agent using the ADK (Agent Develo
 ### 1. **Install required packages and set up environment**
    - Install the required dependencies:
      ```bash
-     pip install google-adk[adk,agent_engine,a2a]
+     pip install google-adk[adk,agent_engine]
      ```
-   - Update the `.env` files:
-     - In the root directory
-     - In `./a2a_basic/remote_a2a/check_prime_agent/`
+   - Update the `.env` files:     
+     - In `./currency_agent`
 
      Insert your Google Cloud `project_id` in both files.
 
