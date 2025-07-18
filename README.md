@@ -9,7 +9,7 @@ This sample demonstrates the **Agent-to-Agent (A2A)** architecture in the Agent 
 - Uses a simple function tool (`roll_die`) for random number generation
 ```bash
      pip install google-adk[adk,agent_engine,a2a]
-     ```
+```
 
 ### 2. **Remote A2A Agent Integration**
 - The `prime_agent` shows how to connect to remote agent services
