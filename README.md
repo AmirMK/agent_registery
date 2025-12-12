@@ -1,6 +1,6 @@
-# Custom Agent on Agentspace
+# Custom Agent on Gemini Enterprise
 
-This sample demonstrates how to build a custom agent using the ADK (Agent Development Kit), deploy it to Vertex AI Agent Engine, and register it with Agentspace. Once registered, the agent becomes accessible through the Agentspace interface, enabling users to interact with it as part of a unified agent experience.
+This sample demonstrates how to build a custom agent using the ADK (Agent Development Kit), deploy it to Vertex AI Agent Engine, and register it with Gemini Enterprise. Once registered, the agent becomes accessible through the Gemini Enterprise interface, enabling users to interact with it as part of a unified agent experience.
 
 ## Steps
 ### 1. **Install required packages and set up environment**
@@ -29,7 +29,7 @@ This will deploy your agent on Vertex AI Agent Engine and return the REASONING_E
 
 
 ### 5. **Register Agent to Gemini Enterprise**
-To register your agent to Gemini Enterprise follow the steps on this link:  
+To register your agent to Gemini Enterprise follow the steps on this link: [Register and manage ADK agents hosted on Vertex AI Agent Engine]([https://example.com/your-link-here](https://docs.cloud.google.com/gemini/enterprise/docs/register-and-manage-an-adk-agent))  
 
 
 
