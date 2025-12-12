@@ -28,13 +28,8 @@ The `staging_bucket` is a GCS bucket used during the deployment process.
 This will deploy your agent on Vertex AI Agent Engine and return the REASONING_ENGINE_ID.
 
 
-### 5. **Register Agent to Agentspace**
-You need to modify `agentspace_agent_registry.sh` by providing necessary information including your GCP project, Agentspace instance, and the deployed Reasoning Engine.
-
-```bash
-     bash agentspace_agent_registry.sh
-```
-This will register the agent to Agentspace and make it available to Agentspace users.
+### 5. **Register Agent to Gemini Enterprise**
+To register your agent to Gemini Enterprise follow the steps on this link:  
 
 
 
