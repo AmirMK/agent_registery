@@ -27,7 +27,6 @@ The `staging_bucket` is a GCS bucket used during the deployment process.
 ```
 This will deploy your agent on Vertex AI Agent Engine and return the REASONING_ENGINE_ID.
 
-
 ### 5. **Register Agent to Gemini Enterprise**
 To register your agent to Gemini Enterprise follow the steps on this link: [Register and manage ADK agents hosted on Vertex AI Agent Engine]([https://example.com/your-link-here](https://docs.cloud.google.com/gemini/enterprise/docs/register-and-manage-an-adk-agent))  
 
